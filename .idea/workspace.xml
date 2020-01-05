@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23a909cc-c15a-4b7e-b87f-f67f4865259f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +36,11 @@
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -83,11 +79,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578166221219</updated>
-      <workItem from="1578166222590" duration="17068000" />
+      <workItem from="1578166222590" duration="17413000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="388" key="GridCell.Tab.0.bottom" timestamp="1578188312364">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="388" key="GridCell.Tab.0.bottom/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578188312364" />
+    <state width="1259" height="388" key="GridCell.Tab.0.center" timestamp="1578188312362">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="388" key="GridCell.Tab.0.center/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578188312362" />
+    <state width="1259" height="388" key="GridCell.Tab.0.left" timestamp="1578188312362">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="388" key="GridCell.Tab.0.left/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578188312362" />
+    <state width="1259" height="388" key="GridCell.Tab.0.right" timestamp="1578188312363">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1259" height="388" key="GridCell.Tab.0.right/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578188312363" />
   </component>
 </project>
