@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23a909cc-c15a-4b7e-b87f-f67f4865259f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578166221219</updated>
-      <workItem from="1578166222590" duration="17413000" />
+      <workItem from="1578166222590" duration="17559000" />
     </task>
     <servers />
   </component>
@@ -87,6 +86,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-161" y="-1194" key="CommitChangelistDialog2" timestamp="1578188824956">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-161" y="-1194" key="CommitChangelistDialog2/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1578188824956" />
     <state width="1259" height="388" key="GridCell.Tab.0.bottom" timestamp="1578188312364">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
